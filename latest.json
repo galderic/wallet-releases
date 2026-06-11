@@ -11,6 +11,7 @@
     }
   },
   "source_repo": "galderic/wallet",
-  "source_ref": "main",
-  "published_at": "2026-06-11T13:47:41Z"
+  "source_ref": "refs/tags/v1.1",
+  "source_sha": "32b569946b025f2cf58025fb7618c4af3b49bc9b",
+  "published_at": "2026-06-11T22:42:32Z"
 }
