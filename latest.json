@@ -1,9 +1,16 @@
 {
-  "version": "main-8143ed4",
-  "platform": "mac-x86",
-  "asset_name": "wallet-mac-x86-main-8143ed4",
-  "path": "releases/main-8143ed4/wallet-mac-x86-main-8143ed4",
+  "version": "v1.0",
+  "assets": {
+    "mac-x86": {
+      "asset_name": "wallet-mac-x86-v1.0",
+      "path": "releases/v1.0/wallet-mac-x86-v1.0"
+    },
+    "linux-amd64": {
+      "asset_name": "wallet-linux-amd64-v1.0",
+      "path": "releases/v1.0/wallet-linux-amd64-v1.0"
+    }
+  },
   "source_repo": "galderic/wallet",
-  "source_ref": "main",
-  "published_at": "2026-06-06T16:31:55Z"
+  "source_ref": "v1.0",
+  "published_at": "2026-06-11T13:12:31Z"
 }
